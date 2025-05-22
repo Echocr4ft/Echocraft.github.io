@@ -1,1 +1,26 @@
-<h1> Echocr4ft </h>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Business Name</title>
+  <style>
+    header {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 24px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    Your Business Name
+  </header>
+
+  <main>
+    <h1>Welcome to Our Website</h1>
+    <p>We offer great services for our customers.</p>
+    <p>Contact us at: your@email.com</p>
+  </main>
+</body>
+</html>
